@@ -770,6 +770,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [hub](https://github.com/github/hub) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels.
 - [gitfetch](https://github.com/Matars/gitfetch) - Neofetch-style stats of your git forge.
+- [profileforge](https://github.com/v01dst/profileforge) - Generate a GitHub profile README + dev card in one command.
 
 ### Emoji
 
